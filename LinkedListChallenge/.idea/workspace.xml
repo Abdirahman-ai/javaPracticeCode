@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a02d1534-dde9-4178-854f-8fe3932dc872" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="21fGgiYtut3Gwzov4AYGAIE9xJL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Academy.Learningprogramming.Main" />
+      <module name="LinkedListChallenge" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a02d1534-dde9-4178-854f-8fe3932dc872" name="Default Changelist" comment="" />
+      <created>1638324840932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638324840932</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="753" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1641867207683">
+      <screen x="0" y="25" width="1440" height="823" />
+    </state>
+    <state x="753" y="263" key="com.intellij.ide.util.TipDialog/0.25.1440.821@0.25.1440.821" timestamp="1638495459669" />
+    <state x="753" y="264" key="com.intellij.ide.util.TipDialog/0.25.1440.823@0.25.1440.823" timestamp="1641867207683" />
+    <state x="753" y="264" key="com.intellij.ide.util.TipDialog/0.25.1440.824@0.25.1440.824" timestamp="1639796403356" />
+  </component>
+</project>

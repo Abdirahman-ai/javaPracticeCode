@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a9429b5-b2a2-4d1a-870c-70f7ee6b95bd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="21LbNrbqRMfxttF3DV9WexX8PSf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Academy.Learningprogramming.Main" />
+      <module name="108. ArrayList Challenge Part 1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a9429b5-b2a2-4d1a-870c-70f7ee6b95bd" name="Default Changelist" comment="" />
+      <created>1637723277842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637723277842</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="681" height="289" key="GridCell.Tab.0.bottom" timestamp="1637895698477">
+      <screen x="0" y="25" width="1440" height="821" />
+    </state>
+    <state width="681" height="289" key="GridCell.Tab.0.bottom/0.25.1440.821@0.25.1440.821" timestamp="1637895698477" />
+    <state width="721" height="289" key="GridCell.Tab.0.bottom/0.25.1440.822@0.25.1440.822" timestamp="1637723895265" />
+    <state width="681" height="289" key="GridCell.Tab.0.center" timestamp="1637895698476">
+      <screen x="0" y="25" width="1440" height="821" />
+    </state>
+    <state width="681" height="289" key="GridCell.Tab.0.center/0.25.1440.821@0.25.1440.821" timestamp="1637895698476" />
+    <state width="721" height="289" key="GridCell.Tab.0.center/0.25.1440.822@0.25.1440.822" timestamp="1637723895264" />
+    <state width="681" height="289" key="GridCell.Tab.0.left" timestamp="1637895698476">
+      <screen x="0" y="25" width="1440" height="821" />
+    </state>
+    <state width="681" height="289" key="GridCell.Tab.0.left/0.25.1440.821@0.25.1440.821" timestamp="1637895698476" />
+    <state width="721" height="289" key="GridCell.Tab.0.left/0.25.1440.822@0.25.1440.822" timestamp="1637723895263" />
+    <state width="681" height="289" key="GridCell.Tab.0.right" timestamp="1637895698476">
+      <screen x="0" y="25" width="1440" height="821" />
+    </state>
+    <state width="681" height="289" key="GridCell.Tab.0.right/0.25.1440.821@0.25.1440.821" timestamp="1637895698476" />
+    <state width="721" height="289" key="GridCell.Tab.0.right/0.25.1440.822@0.25.1440.822" timestamp="1637723895264" />
+    <state x="736" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1637723754776">
+      <screen x="0" y="25" width="1440" height="822" />
+    </state>
+    <state x="736" y="265" key="com.intellij.ide.util.TipDialog/0.25.1440.822@0.25.1440.822" timestamp="1637723754776" />
+  </component>
+</project>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af4d60e9-4941-4820-b087-973c1aa2a63c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1loGtnIET8hHW1fELmSp2npHjmD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af4d60e9-4941-4820-b087-973c1aa2a63c" name="Default Changelist" comment="" />
+      <created>1608256247839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608256247839</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="876" y="345" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1608256270392">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state x="876" y="345" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.830@0.23.1440.830" timestamp="1608256270392" />
+  </component>
+</project>

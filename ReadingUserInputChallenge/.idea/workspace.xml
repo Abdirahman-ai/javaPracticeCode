@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cfc8be97-6a6a-4722-92d8-4d8cf231486a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1cywxMYjYHhZxbNFV6NoDjsZmij" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Academy.Learningprogramming.Main" />
+      <module name="ReadingUserInputChallenge" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfc8be97-6a6a-4722-92d8-4d8cf231486a" name="Default Changelist" comment="" />
+      <created>1591514386503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591514386503</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="639" height="47" key="GridCell.Tab.0.bottom" timestamp="1591995144654">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="639" height="73" key="GridCell.Tab.0.bottom/0.23.1440.817@0.23.1440.817" timestamp="1591518942294" />
+    <state width="639" height="2" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1591915743411" />
+    <state width="639" height="47" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1591995144654" />
+    <state width="639" height="47" key="GridCell.Tab.0.center" timestamp="1591995144654">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="639" height="73" key="GridCell.Tab.0.center/0.23.1440.817@0.23.1440.817" timestamp="1591518942294" />
+    <state width="639" height="2" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1591915743410" />
+    <state width="639" height="47" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1591995144654" />
+    <state width="639" height="47" key="GridCell.Tab.0.left" timestamp="1591995144654">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="639" height="73" key="GridCell.Tab.0.left/0.23.1440.817@0.23.1440.817" timestamp="1591518942293" />
+    <state width="639" height="2" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1591915743408" />
+    <state width="639" height="47" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1591995144654" />
+    <state width="639" height="47" key="GridCell.Tab.0.right" timestamp="1591995144654">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="639" height="73" key="GridCell.Tab.0.right/0.23.1440.817@0.23.1440.817" timestamp="1591518942294" />
+    <state width="639" height="2" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1591915743410" />
+    <state width="639" height="47" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1591995144654" />
+  </component>
+</project>

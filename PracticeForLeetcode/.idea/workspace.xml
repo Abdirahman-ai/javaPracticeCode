@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="480faed7-fbed-47d5-85bd-1d287761ede1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="22TDZxl8xDJLjCYzhz5Da3C1yof" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Academy.Learningprogramming.Main" />
+      <module name="PracticeForLeetcode" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="480faed7-fbed-47d5-85bd-1d287761ede1" name="Default Changelist" comment="" />
+      <created>1639852743204</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639852743204</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="29" height="801" key="GridCell.Tab.0.bottom" timestamp="1642568866850">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="29" height="801" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1642568866850" />
+    <state width="665" height="186" key="GridCell.Tab.0.bottom/0.25.1440.821@0.25.1440.821" timestamp="1641866084800" />
+    <state width="665" height="511" key="GridCell.Tab.0.bottom/0.25.1440.822@0.25.1440.822" timestamp="1641697227382" />
+    <state width="665" height="94" key="GridCell.Tab.0.bottom/0.25.1440.823@0.25.1440.823" timestamp="1641842923700" />
+    <state width="47" height="697" key="GridCell.Tab.0.bottom/0.25.1440.824@0.25.1440.824" timestamp="1642469214504" />
+    <state width="665" height="441" key="GridCell.Tab.0.bottom/0.25.1440.825@0.25.1440.825" timestamp="1641841875852" />
+    <state width="665" height="59" key="GridCell.Tab.0.bottom/0.25.1440.827@0.25.1440.827" timestamp="1642361990201" />
+    <state width="29" height="801" key="GridCell.Tab.0.center" timestamp="1642568866850">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="29" height="801" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1642568866850" />
+    <state width="665" height="186" key="GridCell.Tab.0.center/0.25.1440.821@0.25.1440.821" timestamp="1641866084799" />
+    <state width="665" height="511" key="GridCell.Tab.0.center/0.25.1440.822@0.25.1440.822" timestamp="1641697227382" />
+    <state width="665" height="94" key="GridCell.Tab.0.center/0.25.1440.823@0.25.1440.823" timestamp="1641842923699" />
+    <state width="47" height="697" key="GridCell.Tab.0.center/0.25.1440.824@0.25.1440.824" timestamp="1642469214503" />
+    <state width="665" height="441" key="GridCell.Tab.0.center/0.25.1440.825@0.25.1440.825" timestamp="1641841875851" />
+    <state width="665" height="59" key="GridCell.Tab.0.center/0.25.1440.827@0.25.1440.827" timestamp="1642361990200" />
+    <state width="29" height="801" key="GridCell.Tab.0.left" timestamp="1642568866849">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="29" height="801" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1642568866849" />
+    <state width="665" height="186" key="GridCell.Tab.0.left/0.25.1440.821@0.25.1440.821" timestamp="1641866084798" />
+    <state width="665" height="511" key="GridCell.Tab.0.left/0.25.1440.822@0.25.1440.822" timestamp="1641697227382" />
+    <state width="665" height="94" key="GridCell.Tab.0.left/0.25.1440.823@0.25.1440.823" timestamp="1641842923699" />
+    <state width="47" height="697" key="GridCell.Tab.0.left/0.25.1440.824@0.25.1440.824" timestamp="1642469214503" />
+    <state width="665" height="441" key="GridCell.Tab.0.left/0.25.1440.825@0.25.1440.825" timestamp="1641841875851" />
+    <state width="665" height="59" key="GridCell.Tab.0.left/0.25.1440.827@0.25.1440.827" timestamp="1642361990199" />
+    <state width="29" height="801" key="GridCell.Tab.0.right" timestamp="1642568866850">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="29" height="801" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1642568866850" />
+    <state width="665" height="186" key="GridCell.Tab.0.right/0.25.1440.821@0.25.1440.821" timestamp="1641866084800" />
+    <state width="665" height="511" key="GridCell.Tab.0.right/0.25.1440.822@0.25.1440.822" timestamp="1641697227382" />
+    <state width="665" height="94" key="GridCell.Tab.0.right/0.25.1440.823@0.25.1440.823" timestamp="1641842923700" />
+    <state width="47" height="697" key="GridCell.Tab.0.right/0.25.1440.824@0.25.1440.824" timestamp="1642469214504" />
+    <state width="665" height="441" key="GridCell.Tab.0.right/0.25.1440.825@0.25.1440.825" timestamp="1641841875852" />
+    <state width="665" height="59" key="GridCell.Tab.0.right/0.25.1440.827@0.25.1440.827" timestamp="1642361990200" />
+    <state x="744" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1641838798052">
+      <screen x="0" y="25" width="1440" height="823" />
+    </state>
+    <state x="744" y="264" key="com.intellij.ide.util.TipDialog/0.25.1440.822@0.25.1440.822" timestamp="1639861830927" />
+    <state x="744" y="264" key="com.intellij.ide.util.TipDialog/0.25.1440.823@0.25.1440.823" timestamp="1641838798052" />
+  </component>
+</project>
