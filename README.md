@@ -1,3 +1,3 @@
 # javaPracticeCode
-Some java practice code back in 2020
+ Java practice code back in 2020
 
